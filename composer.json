@@ -1,0 +1,27 @@
+{
+    "name": "yii2-basic-restful-api-template",
+    "description": "Simple web api with Yii2 basic template",
+    "type": "library",
+    "keywords": ["yii2", "framework", "advanced", "project template", "RESTful", "web api"],
+    "authors": [
+        {
+            "name": "Rockie Lin",
+            "email": "rockie.lin.tw@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/RockieLin/yii2-basic-restful-api-template/issues?state=open",
+        "source": "https://github.com/RockieLin/yii2-basic-restful-api-template"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2-app-basic": "*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/RockieLin/yii2-basic-restful-api-template"
+        }
+    ]
+}
