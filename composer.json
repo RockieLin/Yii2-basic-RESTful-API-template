@@ -1,7 +1,7 @@
 {
     "name": "rockielin/yii2-basic-restful-api-template",
     "description": "Simple web api with Yii2 basic template",
-    "type": "library",
+    "type": "project",
     "keywords": ["yii2", "framework", "advanced", "project template", "RESTful", "web api"],
     "license": "BSD-3-Clause",
     "authors": [
