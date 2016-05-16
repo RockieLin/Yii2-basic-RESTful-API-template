@@ -15,6 +15,7 @@
         "issues": "https://github.com/RockieLin/yii2-basic-restful-api-template/issues?state=open",
         "source": "https://github.com/RockieLin/yii2-basic-restful-api-template"
     },
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2-app-basic": "*"
