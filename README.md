@@ -3,6 +3,9 @@ Simple web api with Yii2
 
 Basic web api using POST or GET method with json response
 
+[![Latest Stable Version](https://poser.pugx.org/rockielin/yii2-basic-restful-api-template/v/stable.png)](https://packagist.org/packages/rockielin/yii2-basic-restful-api-template)
+[![Total Downloads](https://poser.pugx.org/rockielin/yii2-basic-restful-api-template/downloads.png)](https://packagist.org/packages/rockielin/yii2-basic-restful-api-template)
+
 INSTALLATION
 ------------
 
