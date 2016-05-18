@@ -1,5 +1,5 @@
 # Yii2-basic-RESTful-API-template
-Simple web api with Yii2
+Simple web api
 
 Basic web api using POST or GET method with json response
 
